@@ -1,0 +1,25 @@
+
+P
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+*
+java:S1700"Rename field "server"(ÍÑo
+b
+java:S2095A"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¡ûÄ
+g
+java:S1450"QRemove the "in" field and declare it as a local variable in the relevant methods.(óåÈÃ
+h
+java:S1450"RRemove the "out" field and declare it as a local variable in the relevant methods.(Ü»Ÿ·
+j
+java:S1450"URemove the "server" field and declare it as a local variable in the relevant methods.(ÍÑo
+p
+java:S1450"URemove the "socket" field and declare it as a local variable in the relevant methods.(Ì§Ü­ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İ‚Õ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İâÊö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åı•‹üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±È´§
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(”ªäûÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ö¬
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(Í—¬¤
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ö¬
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(šÉš×
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(±§Åúÿÿÿÿ
